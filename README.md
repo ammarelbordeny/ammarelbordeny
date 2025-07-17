@@ -72,32 +72,12 @@
 ---
 
 ## 🚀 Explore My Projects
-🔹 [Machine Learning & Deep Learning](#machine-learning--deep-learning)  
-🔹 [Natural Language Processing (NLP)](#natural-language-processing-nlp)  
-🔹 [Augmented Reality (AR)](#augmented-reality-ar)  
+🔹 [Machine Learning & Deep Learning](https://github.com/ammarelbordeny/Machine-Learning-Deep-Learning)  
+🔹 [Natural Language Processing (NLP)](https://github.com/ammarelbordeny/NLP)  
+🔹 [Augmented Reality (AR)]([#augmented-reality-ar](https://github.com/ammarelbordeny/AR))  
 
 ---
 
-## 🧠 Machine Learning & Deep Learning
-> Projects related to supervised/unsupervised learning, deep neural networks, forecasting models, etc.
-
-<!-- Add your ML & DL projects here -->
-
----
-
-## 💬 Natural Language Processing (NLP)
-> Projects related to text classification, sentiment analysis, and language models.
-
-<!-- Add your NLP projects here -->
-
----
-
-## 🚗 Augmented Reality (AR)
-> Projects related to Unity 3D, Vuforia, AR/VR experiences.
-
-<!-- Add your AR projects here -->
-
----
 
 
 ## 🧑‍💼 About Me
