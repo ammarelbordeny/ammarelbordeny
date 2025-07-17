@@ -64,6 +64,6 @@
 ## 📈 GitHub Stats (Optional)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ammar876ahmed&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ammar876ahmed&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ammarelbordeny&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ammarelbordeny&layout=compact&theme=radical" />
 </p>
