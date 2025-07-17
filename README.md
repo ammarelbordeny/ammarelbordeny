@@ -69,17 +69,36 @@
 </p>
 ---
 
-## 📂 My Projects by Category
+---
 
-| Category                             | Projects                                                                 |
-|--------------------------------------|--------------------------------------------------------------------------|
-| 🧠 **Machine Learning & Deep Learning** | [House Price Prediction](#) • [Stroke Prediction](#) • [Mushroom Classification](#) • [Bitcoin Price Forecasting](#) |
-| 💬 **Natural Language Processing (NLP)** | [Sentiment Analysis on Movie Reviews](#)                                 |
-| 🚗 **Augmented Reality (AR)**          | [AR Car Showroom](#)                                                     |
-
-> 🔗 *Click on any project name to open its repository.*
+## 🚀 Explore My Projects
+🔹 [Machine Learning & Deep Learning](#machine-learning--deep-learning)  
+🔹 [Natural Language Processing (NLP)](#natural-language-processing-nlp)  
+🔹 [Augmented Reality (AR)](#augmented-reality-ar)  
 
 ---
+
+## 🧠 Machine Learning & Deep Learning
+> Projects related to supervised/unsupervised learning, deep neural networks, forecasting models, etc.
+
+<!-- Add your ML & DL projects here -->
+
+---
+
+## 💬 Natural Language Processing (NLP)
+> Projects related to text classification, sentiment analysis, and language models.
+
+<!-- Add your NLP projects here -->
+
+---
+
+## 🚗 Augmented Reality (AR)
+> Projects related to Unity 3D, Vuforia, AR/VR experiences.
+
+<!-- Add your AR projects here -->
+
+---
+
 
 ## 🧑‍💼 About Me
 
@@ -96,9 +115,6 @@ I enjoy building intelligent systems, exploring the world of AR/VR, and mentorin
   </a>
   <a href="https://www.linkedin.com/in/ammar-ahmed-205053259/">
     <img src="https://img.shields.io/badge/LinkedIn-ammar%20ahmed-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="(https://github.com/ammarelbordeny/ammarelbordeny)">
-    <img src="https://img.shields.io/badge/GitHub-ammarelbordeny-black?style=for-the-badge&logo=github" />
   </a>
 </p>
 
