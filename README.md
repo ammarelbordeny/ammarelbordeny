@@ -74,7 +74,7 @@
 ## 🚀 Explore My Projects
 🔹 [Machine Learning & Deep Learning](https://github.com/ammarelbordeny/Machine-Learning-Deep-Learning)  
 🔹 [Natural Language Processing (NLP)](https://github.com/ammarelbordeny/NLP)  
-🔹 [Augmented Reality (AR)]([#augmented-reality-ar](https://github.com/ammarelbordeny/AR))  
+🔹 [Augmented Reality (AR)](https://github.com/ammarelbordeny/AR)  
 
 ---
 
