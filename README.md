@@ -97,7 +97,7 @@ I enjoy building intelligent systems, exploring the world of AR/VR, and mentorin
   <a href="https://www.linkedin.com/in/ammar-ahmed-205053259/">
     <img src="https://img.shields.io/badge/LinkedIn-ammar%20ahmed-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://github.com/ammar876ahmed">
+  <a href="(https://github.com/ammarelbordeny/ammarelbordeny)">
     <img src="https://img.shields.io/badge/GitHub-ammarelbordeny-black?style=for-the-badge&logo=github" />
   </a>
 </p>
