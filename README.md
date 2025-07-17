@@ -67,3 +67,42 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ammarelbordeny&show_icons=true&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ammarelbordeny&layout=compact&theme=radical" />
 </p>
+---
+
+## 📂 My Projects by Category
+
+| Category                             | Projects                                                                 |
+|--------------------------------------|--------------------------------------------------------------------------|
+| 🧠 **Machine Learning & Deep Learning** | [House Price Prediction](#) • [Stroke Prediction](#) • [Mushroom Classification](#) • [Bitcoin Price Forecasting](#) |
+| 💬 **Natural Language Processing (NLP)** | [Sentiment Analysis on Movie Reviews](#)                                 |
+| 🚗 **Augmented Reality (AR)**          | [AR Car Showroom](#)                                                     |
+
+> 🔗 *Click on any project name to open its repository.*
+
+---
+
+## 🧑‍💼 About Me
+
+I'm a passionate AI Engineer student with a strong foundation in programming, machine learning, and deep learning.  
+I enjoy building intelligent systems, exploring the world of AR/VR, and mentoring junior developers as part of IEEE SHA.
+
+---
+
+## 📬 Contact Me
+
+<p align="left">
+  <a href="mailto:ammar876ahmed@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-ammar876ahmed-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/ammar-ahmed-205053259/">
+    <img src="https://img.shields.io/badge/LinkedIn-ammar%20ahmed-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/ammar876ahmed">
+    <img src="https://img.shields.io/badge/GitHub-ammar876ahmed-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
+<p align="center">Thanks for visiting! 😊</p>
+
