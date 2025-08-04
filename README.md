@@ -58,7 +58,6 @@ I enjoy building intelligent systems, exploring the world of AR/VR, and mentorin
 
 - 🏡 **House Price Prediction** – Regression model for estimating prices based on features.
 - 🧠 **Stroke Prediction** – Classification model with 95% accuracy.
-- 🍄 **Mushroom Classifier** – Classified as edible/poisonous using KNN, RF, and DT.
 - 💸 **Bitcoin Price Forecasting** – Time-series prediction using LSTM, CNN, GRU.
 - 🎥 **Sentiment Analysis App** – Streamlit app for real-time movie review classification.
 - 🚗 **AR Car Showroom** – Unity 3D + Vuforia app for interactive vehicle visualization.
