@@ -12,6 +12,26 @@
 
 ---
 
+## 🧑‍💼 About Me
+
+I'm a passionate AI Engineer student with a strong foundation in programming, machine learning, and deep learning.  
+I enjoy building intelligent systems, exploring the world of AR/VR, and mentoring junior developers as part of IEEE SHA.
+
+---
+
+## 📬 Contact Me
+
+<p align="left">
+  <a href="mailto:ammar876ahmed@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-ammar876ahmed-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/ammar-ahmed-205053259/">
+    <img src="https://img.shields.io/badge/LinkedIn-ammar%20ahmed-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
+
+---
+
 ## 🚀 Skills
 
 ### 🤖 AI & Machine Learning
@@ -61,44 +81,21 @@
 
 ---
 
-## 📈 GitHub Stats (Optional)
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ammarelbordeny&show_icons=true&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ammarelbordeny&layout=compact&theme=radical" />
 </p>
----
 
 ---
 
 ## 🚀 Explore My Projects
+
 🔹 [Machine Learning & Deep Learning](https://github.com/ammarelbordeny/Machine-Learning-Deep-Learning)  
 🔹 [Natural Language Processing (NLP)](https://github.com/ammarelbordeny/NLP)  
 🔹 [Augmented Reality (AR)](https://github.com/ammarelbordeny/AR)  
 
 ---
 
-
-
-## 🧑‍💼 About Me
-
-I'm a passionate AI Engineer student with a strong foundation in programming, machine learning, and deep learning.  
-I enjoy building intelligent systems, exploring the world of AR/VR, and mentoring junior developers as part of IEEE SHA.
-
----
-
-## 📬 Contact Me
-
-<p align="left">
-  <a href="mailto:ammar876ahmed@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-ammar876ahmed-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/ammar-ahmed-205053259/">
-    <img src="https://img.shields.io/badge/LinkedIn-ammar%20ahmed-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-</p>
-
----
-
 <p align="center">Thanks for visiting! 😊</p>
-
